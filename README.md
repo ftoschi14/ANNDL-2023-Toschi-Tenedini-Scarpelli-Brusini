@@ -69,10 +69,6 @@ Moreover, because the provided dataset only consisted of 5004 images, **Data aug
  Our best model achieved a test-set MSE of **0.01051**, placing our team in the **top 30%** among over 580 participants.
 
  ## Team Members
-
- Team: [Drip Mac](http://chrome.ws.dei.polimi.it/images/thumb/d/d8/ThePoint.jpg/350px-ThePoint.jpg)
- <p>
-
  [Leonardo Brusini](https://github.com/LeonardoBrusini)
  <p>
 
@@ -83,3 +79,6 @@ Moreover, because the provided dataset only consisted of 5004 images, **Data aug
 <p>
 
  [Federico Toschi](https://github.com/ftoschi14)
+ <p>
+ 
+ Team name: Drip Mac
